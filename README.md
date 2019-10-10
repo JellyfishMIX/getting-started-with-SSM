@@ -15,3 +15,34 @@
 
 [https://blog.csdn.net/w_linux/article/details/79666086](https://blog.csdn.net/w_linux/article/details/79666086)
 
+## java的类之间的关系：泛化、依赖、关联、实现、聚合、组合
+
+[https://blog.csdn.net/lpjishu/article/details/51491779](https://blog.csdn.net/lpjishu/article/details/51491779)
+
+## 依赖注入(DI)和控制反转(IoC)
+
+[https://blog.csdn.net/bestone0213/article/details/47424255](https://blog.csdn.net/bestone0213/article/details/47424255)
+
+## Maven是什么？
+
+[https://www.zhihu.com/question/20104186](https://www.zhihu.com/question/20104186)
+
+## Java bean 是个什么概念?
+
+[https://www.zhihu.com/question/19773379](https://www.zhihu.com/question/19773379)
+
+## 什么是JavaBean、bean? 什么是POJO、PO、DTO、VO、BO ? 什么是EJB、EntityBean？
+
+[https://blog.csdn.net/chenchunlin526/article/details/69939337](https://blog.csdn.net/chenchunlin526/article/details/69939337)
+
+## Spring概述
+
+[https://www.jianshu.com/p/7b6a070119c7](https://www.jianshu.com/p/7b6a070119c7)
+
+## SSM框架概述与分层理解
+
+[https://blog.csdn.net/qq_38685503/article/details/88022904](https://blog.csdn.net/qq_38685503/article/details/88022904)
+
+## MyBatis 概述
+
+[https://blog.csdn.net/qq_42322548/article/details/92435625](https://blog.csdn.net/qq_42322548/article/details/92435625)
