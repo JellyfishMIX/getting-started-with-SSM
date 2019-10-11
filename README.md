@@ -47,4 +47,8 @@
 
 [https://blog.csdn.net/qq_42322548/article/details/92435625](https://blog.csdn.net/qq_42322548/article/details/92435625)
 
+## 《深入理解mybatis原理》 Mybatis数据源与连接池
+
+[https://blog.csdn.net/luanlouis/article/details/37671851](https://blog.csdn.net/luanlouis/article/details/37671851)
+
 以上，祝学习顺利，大家加油！
