@@ -43,6 +43,10 @@
 
 [https://www.jianshu.com/p/7b6a070119c7](https://www.jianshu.com/p/7b6a070119c7)
 
+## 【SpringMVC架构】SpringMVC介绍（一）
+
+[https://blog.csdn.net/jiuqiyuliang/article/details/47115299](https://blog.csdn.net/jiuqiyuliang/article/details/47115299)
+
 ## SSM框架概述与分层理解
 
 [https://blog.csdn.net/qq_38685503/article/details/88022904](https://blog.csdn.net/qq_38685503/article/details/88022904)
