@@ -31,9 +31,9 @@
 
 [https://www.zhihu.com/question/24863332](https://www.zhihu.com/question/24863332)
 
-## Java bean 是个什么概念?
+## Spring读书笔记-----Spring的Bean之Bean的基本概念
 
-[https://www.zhihu.com/question/19773379](https://www.zhihu.com/question/19773379)
+[https://blog.csdn.net/chenssy/article/details/8222744](https://blog.csdn.net/chenssy/article/details/8222744)
 
 ## 什么是JavaBean、bean? 什么是POJO、PO、DTO、VO、BO ? 什么是EJB、EntityBean？
 
