@@ -51,9 +51,13 @@
 
 [https://blog.csdn.net/qq_38685503/article/details/88022904](https://blog.csdn.net/qq_38685503/article/details/88022904)
 
+## 你的项目应该如何正确分层？
+
+[https://blog.csdn.net/qq_38685503/article/details/88022904](https://blog.csdn.net/qq_38685503/article/details/88022904)
+
 ## MyBatis 概述
 
-[https://blog.csdn.net/qq_42322548/article/details/92435625](https://blog.csdn.net/qq_42322548/article/details/92435625)
+[https://juejin.im/post/5b44e62e6fb9a04fc030f216](https://juejin.im/post/5b44e62e6fb9a04fc030f216)
 
 ## 《深入理解mybatis原理》 Mybatis数据源与连接池
 
