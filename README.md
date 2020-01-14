@@ -5,7 +5,7 @@
 
 ## 置顶！详解Spring全家桶，一篇文章理解Spring体系概况
 
-[https://www.cnblogs.com/ncwoniu/p/11498460.html](https://www.cnblogs.com/ncwoniu/p/11498460.html)
+[https://zhuanlan.zhihu.com/p/59327709](https://zhuanlan.zhihu.com/p/59327709)
 
 ## Java注解是什么？
 
