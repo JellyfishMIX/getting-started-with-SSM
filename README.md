@@ -57,7 +57,7 @@
 
 ## 你的项目应该如何正确分层？
 
-[https://blog.csdn.net/qq_38685503/article/details/88022904](https://blog.csdn.net/qq_38685503/article/details/88022904)
+[https://juejin.im/post/5b44e62e6fb9a04fc030f216](https://juejin.im/post/5b44e62e6fb9a04fc030f216)
 
 ## MyBatis 概述
 
