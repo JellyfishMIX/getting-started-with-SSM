@@ -39,6 +39,10 @@
 
 [https://blog.csdn.net/chenssy/article/details/8222744](https://blog.csdn.net/chenssy/article/details/8222744)
 
+## 阿里巴巴Java开发手册中的DO、DTO、BO、AO、VO、POJO定义
+
+[https://www.cnblogs.com/EasonJim/p/7967999.html](https://www.cnblogs.com/EasonJim/p/7967999.html)
+
 ## 什么是JavaBean、bean? 什么是POJO、PO、DTO、VO、BO ? 什么是EJB、EntityBean？
 
 [https://blog.csdn.net/chenchunlin526/article/details/69939337](https://blog.csdn.net/chenchunlin526/article/details/69939337)
